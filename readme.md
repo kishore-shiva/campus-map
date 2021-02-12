@@ -4,4 +4,4 @@ Execute the "main_map.py" python file
 
 Screenshot:
 
-![alt text](C:\Users\Kishore Shiva S\Pictures\Screenshots\Screenshot (18).png)
+![alt text](C:\Users\Kishore Shiva S\Pictures\Screenshots\https://miro.medium.com/proxy/1*TJGfyvSbpSK6bjvYlsDXkA.png)
